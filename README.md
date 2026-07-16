@@ -13,4 +13,3 @@ python3 2_comprehensions.py
 python3 3_custom_exception.py
 python3 4_context_manager.py
 ```
-# Python-Deeper-Idioms-Exceptions-Context-Managers-Debugging
